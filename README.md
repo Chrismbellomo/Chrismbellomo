@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chrismbellomo
 - 👀 I’m interested in bioinformatics and data science
-- 🌱 I’m currently using python and R for bioinformatics and data science
+- 🌱 I’m currently learning python and R for bioinformatics and data science
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: at my email
 
